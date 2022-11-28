@@ -3,5 +3,5 @@
 
 
 # env variables
-- SESSION_STRING - pyrogram session string 
-- BOT_TOKEN = get it from bot father 
+- SESSION_STRING - BAANsDQdOXWTibSZgmXm664yR0TTTu-ye_jpXop63iy0c2xAsFoRjyHtW1Web-gJIxpgbOr3upxQ3VYpL770RXoMvaeotnDJuDh_LhfMTwRJx_MGMM4VblBzZxY-PeuJafr9aTLkgYXDmAY3NMgC9cidfa_KP3JxEtdJg3Pm-xiNFC37xWKMTKda1p-ShJbS9ZUVRJdxFvmuBCD3bTv0OOF5zEtrGWLC__JBxDoUJpufT1c1liw7ptLQs_kd1gc6ZXIeak8-l2W7bheaZ41BjMVfkZ8tN8HYmffPTFPSAMDe2Itj0_iyuweb6qweqyZVFp-2hS4ug83oQKoaD2ePH5PIAAAAAUE9mCYA
+- BOT_TOKEN = 5802134763:AAHP4jnnP-zuj_K5Cg6qIuzNwmNzan4R_6g
