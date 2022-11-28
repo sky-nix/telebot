@@ -1,0 +1,7 @@
+heroku3
+ethon==1.3.6
+cryptg
+tgcrypto
+pyrogram
+psutil
+pyromod
